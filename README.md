@@ -1,0 +1,5 @@
+- **06/09/2021**
+  - Practice a DS project using India Covid dataset on Kaggle.
+  - Check error in the data.
+  - Visualization (Horizontal Bar Chart & Area Plot).
+  - First time using Annotation in Visualization.
