@@ -3,3 +3,7 @@
   - Check error in the data.
   - Visualization (Horizontal Bar Chart & Area Plot).
   - First time using Annotation in Visualization.
+- **09/09/2021**
+  - View and learn EDA from <a href=https://www.kaggle.com/dwin183287/tps-september-2021-eda>Sharlto Cope's <b>Kaggle TPS Sep 2021</b> Notebook</a> (a magnificient EDA)
+  - Finish Kaggle Visualization Micro Course.
+  - Practice EDA using <a href=https://www.kaggle.com/kylekohnen/complete-pokemon-data-set>Kyle Cohnen's **Complete Pokemon Dataset on Kaggle**</a>
