@@ -10,3 +10,4 @@
 - **10/09/2021**
   - Learn Advanced plotting using `mathplotlib`
   - Update Yesterday Notebook (Pokemon): Advanced & beautiful Plots using `matplotlib`
+  - Prepare data for new notebook: spotify-top200-2021, using data from <a href=https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021>Spotify Top 200 Charts (2020-2021) Dataset on Kaggle</a>
