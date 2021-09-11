@@ -13,3 +13,5 @@
   - ***spotify-top200-2021 Notebook:***
     - Prepare data using data from <a href=https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021>Spotify Top 200 Charts (2020-2021) Dataset on Kaggle</a>
     - Visualize data Distribution using Histogram
+- **11/09/2021**
+  - spotify-top200-2021 Notebook Visualization
