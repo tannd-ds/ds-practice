@@ -17,3 +17,5 @@
   - spotify-top200-2021 Notebook Visualization
 - **12/09/2021**
   - New EDA Notebook `olympics-2021` - Practise what I've learnt these days (EDA with beautiful plotting).
+- **15/09/2021**
+  - New EDA Notebook `money-heist` - raw EDA (without beatiful plotting).
