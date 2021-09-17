@@ -19,3 +19,5 @@
   - New EDA Notebook `olympics-2021` - Practise what I've learnt these days (EDA with beautiful plotting).
 - **15/09/2021**
   - New EDA Notebook `money-heist` - raw EDA (without beatiful plotting).
+- **17/09/2021**
+  - `money-heist` - Slightly adjust Plots and save them as Images.
