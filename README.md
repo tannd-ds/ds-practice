@@ -23,3 +23,5 @@
   - `money-heist` - Slightly adjust Plots and save them as Images.
 - **22/09/2021**
   - Add **Rename Columns** function to `programs`
+- **23/09/2021**
+  - New (raw) Notebook `my-class-university` - Basic Analysis.
