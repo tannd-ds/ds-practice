@@ -21,5 +21,5 @@
   - New EDA Notebook `money-heist` - raw EDA (without beatiful plotting).
 - **17/09/2021**
   - `money-heist` - Slightly adjust Plots and save them as Images.
-= **22/09/2021**
+- **22/09/2021**
   - Add **Rename Columns** function to `programs`
