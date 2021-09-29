@@ -25,3 +25,5 @@
   - Add **Rename Columns** function to `programs`
 - **23/09/2021**
   - New (raw) Notebook `my-class-university` - Basic Analysis.
+- **29/09/2021**
+  - New Notebook `customer-personality-analysis` - Load file, quick look and Descriptive Statistics
