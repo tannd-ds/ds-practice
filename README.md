@@ -26,4 +26,6 @@
 - **23/09/2021**
   - New (raw) Notebook `my-class-university` - Basic Analysis.
 - **29/09/2021**
-  - New Notebook `customer-personality-analysis` - Load file, quick look and Descriptive Statistics
+  - New Notebook `customer-personality-analysis` - Load file, quick look and Descriptive Statistics.
+- **30/09/2021**
+  - `customer-personality-analysis` Notebook - Univariate Analysis: Plot Distribution of Non-numerical Attributes.
