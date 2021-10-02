@@ -31,3 +31,4 @@
   - `customer-personality-analysis` Notebook - Univariate Analysis: Plot Distribution of Non-numerical Attributes.
 - **02/10/2021**
   - `customer-personality-analysis` Notebook - Univariate Analysis: Plot Distribution of Numerical Attributes (using `Bar Chart` and `Box Plot`)
+  - `customer-personality-analysis` Notebook - Univariate Analysis: Deeper Univariate Analysis - Customer's number of children
