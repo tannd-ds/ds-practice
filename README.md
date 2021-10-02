@@ -29,3 +29,5 @@
   - New Notebook `customer-personality-analysis` - Load file, quick look and Descriptive Statistics.
 - **30/09/2021**
   - `customer-personality-analysis` Notebook - Univariate Analysis: Plot Distribution of Non-numerical Attributes.
+- **02/10/2021**
+  - `customer-personality-analysis` Notebook - Univariate Analysis: Plot Distribution of Numerical Attributes (using `Bar Chart` and `Box Plot`)
