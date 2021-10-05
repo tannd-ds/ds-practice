@@ -34,3 +34,5 @@
   - `customer-personality-analysis` Notebook - Univariate Analysis: Deeper Univariate Analysis - Customer's number of children
 - **03/10/2021**
   - `knowledge-practise`: plot histogram with different intervals (the manual way)
+- **05/10/2021**
+  - New program (not generalized or usable yet): Custom Plot `density-frequency-histogram`.
