@@ -36,3 +36,5 @@
   - `knowledge-practise`: plot histogram with different intervals (the manual way)
 - **05/10/2021**
   - New program (not generalized or usable yet): Custom Plot `density-frequency-histogram`.
+- **06/10/2021**
+  - `density-frequency-histogram` generalization plan (wrote essential functions, just need to ensemble them all into a *Class*).
