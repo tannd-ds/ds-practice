@@ -38,3 +38,6 @@
   - New program (not generalized or usable yet): Custom Plot `density-frequency-histogram`.
 - **06/10/2021**
   - `density-frequency-histogram` generalization plan (wrote essential functions, just need to ensemble them all into a *Class*).
+- **07/10/2021**
+  - Reorganized all Folder.
+  - Practise **Statistic** - `Ranges and Quartiles`
