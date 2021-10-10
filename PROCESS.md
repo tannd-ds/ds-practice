@@ -40,4 +40,6 @@
   - `density-frequency-histogram` generalization plan (wrote essential functions, just need to ensemble them all into a *Class*).
 - **07/10/2021**
   - Reorganized all Folder.
-  - Practise **Statistic** - `Ranges and Quartiles`
+  - Practise **Statistics** - `Ranges and Quartiles`
+- **10/10/2021**
+  - Practice **Statistics** `Standard Deviation & Standard Scores (Z-scores)`
