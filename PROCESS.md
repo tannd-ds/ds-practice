@@ -43,3 +43,5 @@
   - Practise **Statistics** - `Ranges and Quartiles`
 - **10/10/2021**
   - Practice **Statistics** `Standard Deviation & Standard Scores (Z-scores)`
+- **11/10/2021**
+  - `customer-personality-analysis` Notebook - More Univariate Analysis: The Aged Outliers.
