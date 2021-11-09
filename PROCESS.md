@@ -45,3 +45,5 @@
   - Practice **Statistics** `Standard Deviation & Standard Scores (Z-scores)`
 - **11/10/2021**
   - `customer-personality-analysis` Notebook - More Univariate Analysis: The Aged Outliers.
+- **09/11/2021**
+  - `customer-personality-analysis` Notebook - Small Tweak: using for loop to print Number of Children instead of using duplicated print.
